@@ -1,4 +1,4 @@
-module Heimdall
+module github.com/bitalive/heimdall
 
 go 1.24.0
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"Heimdall/io"
+	"github.com/bitalive/heimdall/io"
 )
 
 const (
